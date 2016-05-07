@@ -1,0 +1,5 @@
+The template below was originally found at <https://launchcenterpro.com/4k5z63>.
+
+
+
+dayone://post?entry=[prompt:Title]%0A%0A%7CMovie%7C%7C%0A%7C%3A---%7C%3A---%7C%0A%7CTitle%7C[prompt:Title]%7C%0A%7CGenre%7C[list:Genre|Action|Documentary|Comedy|Mystery|Animation|Science Fiction|Other]%7C%0A%7CRating%7C[list:Rating|★☆☆☆☆|★★☆☆☆|★★★☆☆|★★★★☆|★★★★★]%7C%0A%7CNotes%7C[prompt:Notes]%7C%0A%0A%23movie%20%23log
